@@ -145,9 +145,9 @@ This is a personal learning journey, but suggestions and feedback are welcome! F
 
 ## 📞 Connect
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
+- **GitHub**: [[Your GitHub Profile](https://github.com/whohimanshukr)]
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-kumar2010/)]
+- **Portfolio**: [Coming Soon]
 
 ---
 
