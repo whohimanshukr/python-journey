@@ -11,11 +11,13 @@ python_journey/                  # Main repository
 │   ├── 01_simple_interest/      # ✅ Fundamentals (Variables, Type Casting, Operators)
 │   │   ├── simple_interest.py
 │   │   └── README.md
-│   │
-│   ├── 02_grade_calculator/     # 🔄 Control Flow & Loops
-│   ├── 03_number_guessing/      # 🎯 While Loops & Conditions
-│   ├── 04_pattern_printer/      # 📊 Nested Loops
-│   └── 05_menu_calculator/      # 🍽️ Match-Case Statements
+│   ├── 02_grade_calculator/     # ✅ Control Flow, if-else
+│   ├── 03_number_guessing/      # 🔄 While loop project
+│   ├── 04_pattern_printer/      # 🔄 Nested loops & patterns
+│   ├── 05_menu_calculator/      # 🔄 Match-case / switch sim
+│   ├── 06_email_generator/      # 🔜 Strings project
+│   ├── 07_password_generator/   # 🔜 Functions + strings
+│   ├── 08_quiz_app/             # 🔜 Functions + logic│   
 │
 ├── major_projects/              # Multi-topic complex projects
 │   ├── expense_tracker/         # (OOP + File I/O)
@@ -60,19 +62,19 @@ python_journey/                  # Main repository
 - 🔄 [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
 - 🔄 [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
 
-### Phase 3: Data Structures 📊
-- **Lists & List Comprehensions**
-- **Tuples**
-- **Dictionaries**
-- **Sets**
-- **String Methods**
-
-### Phase 4: Functions & Modularity 🔧
+### Phase 3: Functions & Modularity 🔧
 - **Function Definition & Calling**
 - **Parameters & Arguments**
 - **Return Values**
 - **Lambda Functions**
 - **Modules & Packages**
+
+### Phase 4: Data Structures 📊
+- **Lists & List Comprehensions**
+- **Tuples**
+- **Dictionaries**
+- **Sets**
+- **String Methods**
 
 ### Phase 5: File Operations 📁
 - **Reading & Writing Files**
