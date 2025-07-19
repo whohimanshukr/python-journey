@@ -11,13 +11,15 @@ python_journey/                  # Main repository
 │   ├── 01_simple_interest/      # ✅ Fundamentals (Variables, Type Casting, Operators)
 │   │   ├── simple_interest.py
 │   │   └── README.md
-│   ├── 02_grade_calculator/     # ✅ Control Flow, if-else
+│   ├── 02_grade_calculator/     # ✅ Control Flow, if-else (Complete)
+│   │   ├── grade_calculator.py
+│   │   └── README.md
 │   ├── 03_number_guessing/      # 🔄 While loop project
 │   ├── 04_pattern_printer/      # 🔄 Nested loops & patterns
 │   ├── 05_menu_calculator/      # 🔄 Match-case / switch sim
 │   ├── 06_email_generator/      # 🔜 Strings project
 │   ├── 07_password_generator/   # 🔜 Functions + strings
-│   ├── 08_quiz_app/             # 🔜 Functions + logic│   
+│   ├── 08_quiz_app/             # 🔜 Functions + logic
 │
 ├── major_projects/              # Multi-topic complex projects
 │   ├── expense_tracker/         # (OOP + File I/O)
@@ -49,7 +51,7 @@ python_journey/                  # Main repository
 **Projects:**
 - ✅ [01_simple_interest](python_mini_projects/01_simple_interest/) - Financial calculator
 
-### Phase 2: Control Flow 🔄
+### Phase 2: Control Flow ✅
 - **Conditional Statements (if-elif-else)**
 - **Match-Case Statements**
 - **Loops (for, while)**
@@ -57,7 +59,7 @@ python_journey/                  # Main repository
 - **Break & Continue**
 
 **Projects:**
-- 🔄 [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
+- ✅ [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
 - 🔄 [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
 - 🔄 [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
 - 🔄 [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
@@ -99,7 +101,7 @@ python_journey/                  # Main repository
 | Project | Topic | Status | Concepts |
 |---------|-------|--------|----------|
 | [01_simple_interest](python_mini_projects/01_simple_interest/) | Fundamentals | ✅ Complete | Variables, Type Casting, Operators |
-| 02_grade_calculator | Control Flow | 🔄 Next | if-else, loops |
+| [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow | ✅ Complete | if-else, loops |
 | 03_number_guessing | Loops & Logic | 📋 Planned | while loops, conditions |
 | 04_pattern_printer | Nested Loops | 📋 Planned | for loops, patterns |
 | 05_menu_calculator | Match-Case | 📋 Planned | match-case, menus |
@@ -147,12 +149,12 @@ This is a personal learning journey, but suggestions and feedback are welcome! F
 
 ## 📞 Connect
 
-- **GitHub**: [[Your GitHub Profile](https://github.com/whohimanshukr)]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-kumar2010/)]
+- **GitHub**: [whohimanshukr](https://github.com/whohimanshukr)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-kumar2010/)
 - **Portfolio**: [Coming Soon]
 
 ---
 
 *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
 
-**Happy Coding! 🐍✨** 
+**Happy Coding! 🐍✨**
