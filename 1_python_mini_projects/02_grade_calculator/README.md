@@ -79,7 +79,7 @@ Thank You for choosing Self-Assessed Grade Calculator
 
 > Built with 💻 by **Himanshu Kumar**  
 > A beginner coder taking it one meaningful project at a time.  
-> Follow the journey → [📁 python-journey](../README.md)
+> Follow the journey → [📁 python-journey]([../README.md](https://github.com/whohimanshukr/python-journey/tree/main))
 
 ---
 
