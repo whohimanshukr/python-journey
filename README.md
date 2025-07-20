@@ -14,7 +14,9 @@ python_journey/                  # Main repository
 │   ├── 02_grade_calculator/     # ✅ Control Flow, if-else (Complete)
 │   │   ├── grade_calculator.py
 │   │   └── README.md
-│   ├── 03_number_guessing/      # 🔄 While loop project
+│   ├── 03_number_guessing/      # ✅ While loop project
+│   │   ├── number_guessing.py
+│   │   └── README.md
 │   ├── 04_pattern_printer/      # 🔄 Nested loops & patterns
 │   ├── 05_menu_calculator/      # 🔄 Match-case / switch sim
 │   ├── 06_email_generator/      # 🔜 Strings project
@@ -60,7 +62,7 @@ python_journey/                  # Main repository
 
 **Projects:**
 - ✅ [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
-- 🔄 [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
+- ✅ [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
 - 🔄 [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
 - 🔄 [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
 
@@ -98,13 +100,13 @@ python_journey/                  # Main repository
 
 ## 📈 Project Progression
 
-| Project | Topic | Status | Concepts |
-|---------|-------|--------|----------|
-| [01_simple_interest](python_mini_projects/01_simple_interest/) | Fundamentals | ✅ Complete | Variables, Type Casting, Operators |
-| [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow | ✅ Complete | if-else, loops |
-| 03_number_guessing | Loops & Logic | 📋 Planned | while loops, conditions |
-| 04_pattern_printer | Nested Loops | 📋 Planned | for loops, patterns |
-| 05_menu_calculator | Match-Case | 📋 Planned | match-case, menus |
+| Project                                                          | Topic         | Status     | Concepts                           |
+| ---------------------------------------------------------------- | ------------- | ---------- | ---------------------------------- |
+| [01_simple_interest](python_mini_projects/01_simple_interest/)   | Fundamentals  | ✅ Complete | Variables, Type Casting, Operators |
+| [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow  | ✅ Complete | if-else, loops                     |
+| [03_number_guessing](python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
+| 04_pattern_printer                                               | Nested Loops  | 📋 Planned  | for loops, patterns                |
+| 05_menu_calculator                                               | Match-Case    | 📋 Planned  | match-case, menus                  |
 
 ## 🎓 Learning Philosophy
 
