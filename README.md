@@ -105,8 +105,8 @@ python_journey/                  # Main repository
 | [01_simple_interest](python_mini_projects/01_simple_interest/)   | Fundamentals  | ✅ Complete | Variables, Type Casting, Operators |
 | [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow  | ✅ Complete | if-else, loops                     |
 | [03_number_guessing](python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
-| 04_pattern_printer                                               | Nested Loops  | 📋 Planned  | for loops, patterns                |
-| 05_menu_calculator                                               | Match-Case    | 📋 Planned  | match-case, menus                  |
+| [04_pattern_printer](python_mini_projects/04_pattern_printer/)   | Nested Loops  | ✅ Complete | for loops, patterns                |
+| [05_menu_calculator]                                             | Match-Case    | 📋 Planned  | match-case, menus                  |
 
 ## 🎓 Learning Philosophy
 
@@ -152,7 +152,7 @@ This is a personal learning journey, but suggestions and feedback are welcome! F
 ## 📞 Connect
 
 - **GitHub**: [whohimanshukr](https://github.com/whohimanshukr)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-kumar2010/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/himanshu-kumar2010/)
 - **Portfolio**: [Coming Soon]
 
 ---
