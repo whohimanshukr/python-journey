@@ -17,7 +17,7 @@ python_journey/                  # Main repository
 │   ├── 03_number_guessing/      # ✅ While loop project
 │   │   ├── number_guessing.py
 │   │   └── README.md
-│   ├── 04_pattern_printer/      # 🔄 Nested loops & patterns
+│   ├── 04_pattern_printer/      # ✅ Nested loops & patterns
 │   ├── 05_menu_calculator/      # 🔄 Match-case / switch sim
 │   ├── 06_email_generator/      # 🔜 Strings project
 │   ├── 07_password_generator/   # 🔜 Functions + strings
@@ -63,7 +63,7 @@ python_journey/                  # Main repository
 **Projects:**
 - ✅ [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
 - ✅ [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
-- 🔄 [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
+- ✅ [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
 - 🔄 [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
 
 ### Phase 3: Functions & Modularity 🔧

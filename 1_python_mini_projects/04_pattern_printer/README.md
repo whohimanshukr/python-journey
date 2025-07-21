@@ -119,8 +119,5 @@ Built as part of my `python-journey`
 * Implement GUI using Tkinter (way later)
 
 ---
-
-> 💡 *“Pattern printing is not about stars. It’s about building control over your logic flow.”*
-
-```
+*“Pattern printing is not about stars. It’s about building control over your logic flow.”*
 
