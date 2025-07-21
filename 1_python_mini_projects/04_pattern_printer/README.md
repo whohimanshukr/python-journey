@@ -123,4 +123,3 @@ Built as part of my `python-journey`
 > 💡 *“Pattern printing is not about stars. It’s about building control over your logic flow.”*
 
 ```
-
