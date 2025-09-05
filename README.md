@@ -18,7 +18,7 @@ python_journey/                  # Main repository
 │   │   ├── number_guessing.py
 │   │   └── README.md
 │   ├── 04_pattern_printer/      # ✅ Nested loops & patterns
-│   ├── 05_menu_calculator/      # 🔄 Match-case / switch sim
+│   ├── 05_menu_calculator/      # ✅ Match-case / switch sim (Complete)
 │   ├── 06_email_generator/      # 🔜 Strings project
 │   ├── 07_password_generator/   # 🔜 Functions + strings
 │   ├── 08_quiz_app/             # 🔜 Functions + logic
@@ -64,7 +64,7 @@ python_journey/                  # Main repository
 - ✅ [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
 - ✅ [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
 - ✅ [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
-- 🔄 [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
+- ✅ [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
 
 ### Phase 3: Functions & Modularity 🔧
 - **Function Definition & Calling**
@@ -106,7 +106,7 @@ python_journey/                  # Main repository
 | [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow  | ✅ Complete | if-else, loops                     |
 | [03_number_guessing](python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
 | [04_pattern_printer](python_mini_projects/04_pattern_printer/)   | Nested Loops  | ✅ Complete | for loops, patterns                |
-| [05_menu_calculator]                                             | Match-Case    | 📋 Planned  | match-case, menus                  |
+| [05_menu_calculator](python_mini_projects/05_menu_calculator/)   | Match-Case    | ✅ Complete | match-case, menus                  |
 
 ## 🎓 Learning Philosophy
 
