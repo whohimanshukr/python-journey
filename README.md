@@ -19,9 +19,10 @@ python_journey/                  # Main repository
 │   │   └── README.md
 │   ├── 04_pattern_printer/      # ✅ Nested loops & patterns
 │   ├── 05_menu_calculator/      # ✅ Match-case / switch sim (Complete)
-│   ├── 06_email_generator/      # 🔜 Strings project
-│   ├── 07_password_generator/   # 🔜 Functions + strings
-│   ├── 08_quiz_app/             # 🔜 Functions + logic
+│   ├── 06_email_generator/      # ✅ Strings project (Complete)
+│   ├── 07_pdf_merger/           # ✅ File handling mini project
+│   ├── 08_password_generator/   # 🔜 Functions + strings
+│   ├── 09_quiz_app/             # 🔜 Functions + logic
 │
 ├── major_projects/              # Multi-topic complex projects
 │   ├── expense_tracker/         # (OOP + File I/O)
@@ -65,6 +66,8 @@ python_journey/                  # Main repository
 - ✅ [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
 - ✅ [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
 - ✅ [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
+- ✅ [06_email_generator](python_mini_projects/06_email_generator/) - String-based email suggestion tool
+- ✅ [07_pdf_merger](1_python_mini_projects/07_pdf_merger/) - Merge multiple PDFs into one
 
 ### Phase 3: Functions & Modularity 🔧
 - **Function Definition & Calling**
@@ -72,6 +75,7 @@ python_journey/                  # Main repository
 - **Return Values**
 - **Lambda Functions**
 - **Modules & Packages**
+- **Project: PDF Merger**
 
 ### Phase 4: Data Structures 📊
 - **Lists & List Comprehensions**
@@ -107,6 +111,8 @@ python_journey/                  # Main repository
 | [03_number_guessing](python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
 | [04_pattern_printer](python_mini_projects/04_pattern_printer/)   | Nested Loops  | ✅ Complete | for loops, patterns                |
 | [05_menu_calculator](python_mini_projects/05_menu_calculator/)   | Match-Case    | ✅ Complete | match-case, menus                  |
+| [06_email_generator](python_mini_projects/06_email_generator/)   | Strings       | ✅ Complete | string methods, formatting         |
+| [07_pdf_merger](1_python_mini_projects/07_pdf_merger/)           | File Handling | ✅ Complete | user input, loops, external library |
 
 ## 🎓 Learning Philosophy
 
