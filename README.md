@@ -139,6 +139,43 @@ python_journey/                  # Main repository
 4. **Run the Python file**
 5. **Experiment and modify the code**
 
+
+## 🌐 Publish This Project on GitHub
+
+If you want to publish this learning repo to GitHub, run these commands from your project folder:
+
+```bash
+# 1) Initialize git (skip if already initialized)
+git init
+
+# 2) Add all files
+git add .
+
+# 3) Create your first commit
+git commit -m "Initial commit: Python learning journey"
+
+# 4) Create an empty repository on GitHub, then connect it
+git remote add origin https://github.com/<your-username>/python-journey.git
+
+# 5) Push to GitHub
+git branch -M main
+git push -u origin main
+```
+
+### ✅ Updating after future changes
+
+```bash
+git add .
+git commit -m "Add: your update message"
+git push
+```
+
+### 🛠 If remote already exists
+
+```bash
+git remote set-url origin https://github.com/<your-username>/python-journey.git
+```
+
 ## 📚 Resources Used
 
 - **Python Official Documentation**
