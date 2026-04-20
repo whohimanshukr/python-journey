@@ -5,9 +5,9 @@ Welcome to my structured Python learning path! This repository showcases my prog
 ## 📁 Repository Structure
 
 ```
-python_journey/                  # Main repository
+python-journey/                  # Main repository
 │
-├── python_mini_projects/        # Topic-focused small projects 
+├── 1_python_mini_projects/      # Topic-focused small projects 
 │   ├── 01_simple_interest/      # ✅ Fundamentals (Variables, Type Casting, Operators)
 │   │   ├── simple_interest.py
 │   │   └── README.md
@@ -52,7 +52,7 @@ python_journey/                  # Main repository
 - **String Formatting**
 
 **Projects:**
-- ✅ [01_simple_interest](python_mini_projects/01_simple_interest/) - Financial calculator
+- ✅ [01_simple_interest](1_python_mini_projects/01_simple_interest/) - Financial calculator
 
 ### Phase 2: Control Flow ✅
 - **Conditional Statements (if-elif-else)**
@@ -62,11 +62,11 @@ python_journey/                  # Main repository
 - **Break & Continue**
 
 **Projects:**
-- ✅ [02_grade_calculator](python_mini_projects/02_grade_calculator/) - Grade determination
-- ✅ [03_number_guessing](python_mini_projects/03_number_guessing/) - Game with loops
-- ✅ [04_pattern_printer](python_mini_projects/04_pattern_printer/) - Pattern generation
-- ✅ [05_menu_calculator](python_mini_projects/05_menu_calculator/) - Menu-driven app
-- ✅ [06_email_generator](python_mini_projects/06_email_generator/) - String-based email suggestion tool
+- ✅ [02_grade_calculator](1_python_mini_projects/02_grade_calculator/) - Grade determination
+- ✅ [03_number_guessing](1_python_mini_projects/03_number_guessing/) - Game with loops
+- ✅ [04_pattern_printer](1_python_mini_projects/04_pattern_printer/) - Pattern generation
+- ✅ [05_menu_calculator](1_python_mini_projects/05_menu_calculator/) - Menu-driven app
+- ✅ [06_email_generator](1_python_mini_projects/06_email_generator/) - String-based email suggestion tool
 - ✅ [07_pdf_merger](1_python_mini_projects/07_pdf_merger/) - Merge multiple PDFs into one
 
 ### Phase 3: Functions & Modularity 🔧
@@ -75,7 +75,6 @@ python_journey/                  # Main repository
 - **Return Values**
 - **Lambda Functions**
 - **Modules & Packages**
-- **Project: PDF Merger**
 
 ### Phase 4: Data Structures 📊
 - **Lists & List Comprehensions**
@@ -106,13 +105,13 @@ python_journey/                  # Main repository
 
 | Project                                                          | Topic         | Status     | Concepts                           |
 | ---------------------------------------------------------------- | ------------- | ---------- | ---------------------------------- |
-| [01_simple_interest](python_mini_projects/01_simple_interest/)   | Fundamentals  | ✅ Complete | Variables, Type Casting, Operators |
-| [02_grade_calculator](python_mini_projects/02_grade_calculator/) | Control Flow  | ✅ Complete | if-else, loops                     |
-| [03_number_guessing](python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
-| [04_pattern_printer](python_mini_projects/04_pattern_printer/)   | Nested Loops  | ✅ Complete | for loops, patterns                |
-| [05_menu_calculator](python_mini_projects/05_menu_calculator/)   | Match-Case    | ✅ Complete | match-case, menus                  |
-| [06_email_generator](python_mini_projects/06_email_generator/)   | Strings       | ✅ Complete | string methods, formatting         |
-| [07_pdf_merger](1_python_mini_projects/07_pdf_merger/)           | File Handling | ✅ Complete | user input, loops, external library |
+| [01_simple_interest](1_python_mini_projects/01_simple_interest/)   | Fundamentals  | ✅ Complete | Variables, Type Casting, Operators |
+| [02_grade_calculator](1_python_mini_projects/02_grade_calculator/) | Control Flow  | ✅ Complete | if-else, loops                     |
+| [03_number_guessing](1_python_mini_projects/03_number_guessing/)   | Loops & Logic | ✅ Complete | while loops, conditions            |
+| [04_pattern_printer](1_python_mini_projects/04_pattern_printer/)   | Nested Loops  | ✅ Complete | for loops, patterns                |
+| [05_menu_calculator](1_python_mini_projects/05_menu_calculator/)   | Match-Case    | ✅ Complete | match-case, menus                  |
+| [06_email_generator](1_python_mini_projects/06_email_generator/)   | Strings       | ✅ Complete | string methods, formatting         |
+| [07_pdf_merger](1_python_mini_projects/07_pdf_merger/)             | File Handling | ✅ Complete | user input, loops, external library |
 
 ## 🎓 Learning Philosophy
 
