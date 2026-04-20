@@ -23,3 +23,4 @@ python pdf_merger.py
 
 Make sure the PDF file names you enter are correct and available in the same
 folder as this script, or provide full paths.
+For more info, visit https://pypdf2.readthedocs.io/en/3.x/
