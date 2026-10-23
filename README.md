@@ -24,17 +24,21 @@ python-journey/                  # Main repository
 │   ├── 08_password_generator/   # 🔜 Functions + strings
 │   ├── 09_quiz_app/             # 🔜 Functions + logic
 │
-├── major_projects/              # Multi-topic complex projects
-│   ├── expense_tracker/         # (OOP + File I/O)
-│   ├── weather_dashboard/       # (APIs + GUI)
-│   └── library_management/      # (Database + CRUD)
+├── 2_major_projects/            # Multi-topic complex projects
+│   ├── 01_ai_virtual_assistant/ # ✅ Cloud LLM API & Chat Memory (Groq)
+│   │   ├── ai_virtual_assistant.py
+│   │   ├── requirements.txt
+│   │   └── README.md
+│   ├── expense_tracker/         # 🔜 (OOP + File I/O)
+│   ├── weather_dashboard/       # 🔜 (APIs + GUI)
+│   └── library_management/      # 🔜 (Database + CRUD)
 │
-├── industry_simulations/        # Real-world scenarios
-│   ├── bank_system/             # (Full OOP with transactions)
-│   ├── ecommerce_api/           # (REST API with Flask)
-│   └── data_analysis_tool/      # (Pandas + Visualization)
+├── 3_industry_simulations/      # Real-world scenarios
+│   ├── bank_system/             # 🔜 (Full OOP with transactions)
+│   ├── ecommerce_api/           # 🔜 (REST API with Flask)
+│   └── data_analysis_tool/      # 🔜 (Pandas + Visualization)
 │
-├── utilities/                   # Reusable code & helpers
+├── 4_utilities/                 # Reusable code & helpers
 │   ├── math_helpers.py          # Custom mathematical functions
 │   ├── file_operations.py       # CSV/JSON operations
 │   └── validation_utils.py      # Input validation helpers
@@ -97,9 +101,13 @@ python-journey/                  # Main repository
 
 ### Phase 7: Advanced Topics 🚀
 - **APIs & Web Scraping**
+- **Generative AI & LLMs**
 - **Database Operations**
 - **GUI Development**
 - **Testing & Debugging**
+
+**Projects:**
+- ✅ [01_ai_virtual_assistant](2_major_projects/01_ai_virtual_assistant/) - Conversational AI Assistant with Groq Cloud API
 
 ## 📈 Project Progression
 
@@ -112,6 +120,7 @@ python-journey/                  # Main repository
 | [05_menu_calculator](1_python_mini_projects/05_menu_calculator/)   | Match-Case    | ✅ Complete | match-case, menus                  |
 | [06_email_generator](1_python_mini_projects/06_email_generator/)   | Strings       | ✅ Complete | string methods, formatting         |
 | [07_pdf_merger](1_python_mini_projects/07_pdf_merger/)             | File Handling | ✅ Complete | user input, loops, external library |
+| [01_ai_virtual_assistant](2_major_projects/01_ai_virtual_assistant/) | APIs & LLMs | ✅ Complete | Cloud LLM Integration, Conversation Memory, Env Vars |
 
 ## 🎓 Learning Philosophy
 
